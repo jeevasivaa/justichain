@@ -1,0 +1,7 @@
+{
+  "name": "JustiChain: Justice & Transparency",
+  "description": "An application for anonymous issue reporting, AI-powered legal guidance, and a public transparency dashboard. It aims to promote peace, justice, and strong institutions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
